@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Quiz app</title>
+    <link rel="stylesheet" type="text/css" href="stylesQuiz.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div style="height: 100%; width: 100%">
+
+      <div style="height: 10vh"></div>
+
+      <div id="cont1">
+        <div id="genDiv"></div>
+        <button id="genButton">Skip question</button>
+      </div>
+
+      <div style="height: 10vh"></div>
+
+      <div id="cont2">
+        <div id="buttonsDiv">
+          <button class="but" id="ansA" onclick="validate('a')"></button>
+          <button class="but" id="ansB" onclick="validate('b')"></button>
+          <button class="but" id="ansC" onclick="validate('c')"></button>
+          <button class="but" id="ansD" onclick="validate('d')"></button>
+        </div>
+        <!-- <div id="score"></div> -->
+      </div>
+    </div>
+  </body>
+  <script src="quiz.js"></script>
+</html>

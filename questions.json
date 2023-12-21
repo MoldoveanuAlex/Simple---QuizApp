@@ -1,0 +1,556 @@
+{
+    "questions": [
+      {
+        "id": 0,
+        "question": "Which of the following best defines opportunity cost?",
+        "options": {
+          "a": "The cost of producing one additional unit of a good",
+          "b": "The monetary cost of a product or service",
+          "c": "The value of the next best alternative forgone when a choice is made",
+          "d": "The total cost of all inputs required for production"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 1,
+        "question": "In a market economy, prices are primarily determined by:",
+        "options": {
+          "a": "Government regulations",
+          "b": "Consumer demand and supply from firms",
+          "c": "The total cost of production",
+          "d": "Historical pricing data"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 2,
+        "question": "Which of the following is NOT considered a macroeconomic variable?",
+        "options": {
+          "a": "Unemployment rate",
+          "b": "Gross Domestic Product (GDP)",
+          "c": "Individual household income",
+          "d": "Inflation rate"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 3,
+        "question": "What does the term 'Gini coefficient' measure in economics?",
+        "options": {
+          "a": "Consumer price index",
+          "b": "Income inequality",
+          "c": "Gross domestic product per capita",
+          "d": "National debt ratio"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 4,
+        "question": "When the demand for a good increases while its supply decreases, what is the likely effect on the equilibrium price and quantity?",
+        "options": {
+          "a": "Price increases, quantity decreases",
+          "b": "Price decreases, quantity decreases",
+          "c": "Price increases, quantity increases",
+          "d": "Price decreases, quantity increases"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 5,
+        "question": "Which economic system is characterized by private ownership of resources and minimal government intervention?",
+        "options": {
+          "a": "Capitalism",
+          "b": "Communism",
+          "c": "Socialism",
+          "d": "Mercantilism"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 6,
+        "question": "The Phillips Curve illustrates the relationship between:",
+        "options": {
+          "a": "Inflation and unemployment",
+          "b": "Interest rates and inflation",
+          "c": "GDP and unemployment",
+          "d": "Exchange rates and GDP"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 7,
+        "question": "What is the role of the Federal Reserve in the United States?",
+        "options": {
+          "a": "Fiscal policy implementation",
+          "b": "Monetary policy regulation",
+          "c": "Tax collection",
+          "d": "Foreign trade negotiations"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 8,
+        "question": "Which market structure is characterized by a large number of firms selling differentiated products?",
+        "options": {
+          "a": "Monopoly",
+          "b": "Oligopoly",
+          "c": "Monopolistic competition",
+          "d": "Perfect competition"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 9,
+        "question": "What is the primary function of the World Bank?",
+        "options": {
+          "a": "Providing financial assistance to developing countries",
+          "b": "Regulating global trade policies",
+          "c": "Issuing a global currency",
+          "d": "Conducting research on economic trends"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 10,
+        "question": "Which event marked the beginning of World War I?",
+        "options": {
+          "a": "Assassination of Archduke Franz Ferdinand",
+          "b": "Treaty of Versailles",
+          "c": "The sinking of the Lusitania",
+          "d": "The Battle of the Somme"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 11,
+        "question": "Who was the first female Prime Minister of Great Britain?",
+        "options": {
+          "a": "Margaret Thatcher",
+          "b": "Angela Merkel",
+          "c": "Theresa May",
+          "d": "Indira Gandhi"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 12,
+        "question": "The Magna Carta, signed in 1215, aimed to limit the power of which authority?",
+        "options": {
+          "a": "The Church",
+          "b": "The Monarchy",
+          "c": "The Feudal Lords",
+          "d": "The Parliament"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 13,
+        "question": "Which ancient civilization built the Machu Picchu complex?",
+        "options": {
+          "a": "Mayans",
+          "b": "Aztecs",
+          "c": "Incas",
+          "d": "Egyptians"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 14,
+        "question": "What was the main cause of the American Civil War?",
+        "options": {
+          "a": "Economic differences between North and South",
+          "b": "Disagreements over states' rights",
+          "c": "Slavery",
+          "d": "Manifest Destiny"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 15,
+        "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+        "options": {
+          "a": "Joseph Stalin",
+          "b": "Vladimir Lenin",
+          "c": "Nikita Khrushchev",
+          "d": "Leonid Brezhnev"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 16,
+        "question": "The Treaty of Versailles, ending World War I, imposed heavy penalties on which country?",
+        "options": {
+          "a": "Germany",
+          "b": "France",
+          "c": "United Kingdom",
+          "d": "Italy"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 17,
+        "question": "Which ancient wonder of the world was located in Greece and dedicated to the goddess Athena?",
+        "options": {
+          "a": "Great Pyramid of Giza",
+          "b": "Hanging Gardens of Babylon",
+          "c": "Colossus of Rhodes",
+          "d": "Parthenon"
+        },
+        "answer": "d"
+      },
+      {
+        "id": 18,
+        "question": "Who was the first president of the United States?",
+        "options": {
+          "a": "Thomas Jefferson",
+          "b": "John Adams",
+          "c": "George Washington",
+          "d": "James Madison"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 19,
+        "question": "Which event signaled the end of the Roman Republic and the beginning of the Roman Empire?",
+        "options": {
+          "a": "The Punic Wars",
+          "b": "The assassination of Julius Caesar",
+          "c": "The Battle of Actium",
+          "d": "The reign of Augustus"
+        },
+        "answer": "b"
+      },
+  
+      {
+        "id": 20,
+        "question": "What does the acronym 'API' stand for in programming?",
+        "options": {
+          "a": "Automated Program Instruction",
+          "b": "Application Programming Interface",
+          "c": "Advanced Programming Interaction",
+          "d": "Automated Protocol Interface"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 21,
+        "question": "Which programming language is commonly used for data analysis and scientific computing?",
+        "options": {
+          "a": "Python",
+          "b": "JavaScript",
+          "c": "Ruby",
+          "d": "C#"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 22,
+        "question": "What is the purpose of a 'for' loop in programming?",
+        "options": {
+          "a": "To declare variables",
+          "b": "To execute a block of code repeatedly",
+          "c": "To define functions",
+          "d": "To perform arithmetic operations"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 23,
+        "question": "In object-oriented programming, what is encapsulation?",
+        "options": {
+          "a": "The process of breaking a program into smaller parts",
+          "b": "The ability to create multiple instances of a class",
+          "c": "Binding data and functions that manipulate the data together",
+          "d": "The process of converting code to machine language"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 24,
+        "question": "What is the purpose of a 'try...catch' block in programming?",
+        "options": {
+          "a": "To perform arithmetic calculations",
+          "b": "To handle exceptions and errors",
+          "c": "To define conditional statements",
+          "d": "To declare variables"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 25,
+        "question": "Which type of variable scope in JavaScript is limited to a specific function?",
+        "options": {
+          "a": "Global scope",
+          "b": "Local scope",
+          "c": "Block scope",
+          "d": "Function scope"
+        },
+        "answer": "d"
+      },
+      {
+        "id": 26,
+        "question": "What is the primary purpose of a 'constructor' in object-oriented programming?",
+        "options": {
+          "a": "To initialize an object's state",
+          "b": "To define methods",
+          "c": "To control access to class members",
+          "d": "To destroy objects"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 27,
+        "question": "Which programming paradigm promotes writing code as a series of pure functions?",
+        "options": {
+          "a": "Imperative programming",
+          "b": "Declarative programming",
+          "c": "Functional programming",
+          "d": "Procedural programming"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 28,
+        "question": "What does 'OOP' stand for in programming?",
+        "options": {
+          "a": "Objective-Oriented Programming",
+          "b": "Object-Oriented Process",
+          "c": "Object-Oriented Paradigm",
+          "d": "Object-Oriented Programming"
+        },
+        "answer": "d"
+      },
+      {
+        "id": 29,
+        "question": "Which data structure uses a 'First In, First Out' (FIFO) approach?",
+        "options": {
+          "a": "Queue",
+          "b": "Stack",
+          "c": "Heap",
+          "d": "Linked List"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 30,
+        "question": "What is the world's largest ocean?",
+        "options": {
+          "a": "Indian Ocean",
+          "b": "Arctic Ocean",
+          "c": "Atlantic Ocean",
+          "d": "Pacific Ocean"
+        },
+        "answer": "d"
+      },
+      {
+        "id": 31,
+        "question": "Which river is the longest in the world?",
+        "options": {
+          "a": "Nile River",
+          "b": "Amazon River",
+          "c": "Yangtze River",
+          "d": "Mississippi River"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 32,
+        "question": "What is the capital city of Australia?",
+        "options": {
+          "a": "Melbourne",
+          "b": "Canberra",
+          "c": "Sydney",
+          "d": "Perth"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 33,
+        "question": "Which mountain range is the tallest in the world?",
+        "options": {
+          "a": "Andes",
+          "b": "Rocky Mountains",
+          "c": "Himalayas",
+          "d": "Alps"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 34,
+        "question": "What is the largest desert in the world?",
+        "options": {
+          "a": "Sahara Desert",
+          "b": "Gobi Desert",
+          "c": "Arabian Desert",
+          "d": "Antarctic Desert"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 35,
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": {
+          "a": "China",
+          "b": "South Korea",
+          "c": "Japan",
+          "d": "Vietnam"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 36,
+        "question": "Where would you find the Great Barrier Reef?",
+        "options": {
+          "a": "Hawaii",
+          "b": "Belize",
+          "c": "Australia",
+          "d": "Philippines"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 37,
+        "question": "Which continent is the least populated?",
+        "options": {
+          "a": "Asia",
+          "b": "Antarctica",
+          "c": "Australia",
+          "d": "Africa"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 38,
+        "question": "What is the world's largest country by land area?",
+        "options": {
+          "a": "United States",
+          "b": "Canada",
+          "c": "Russia",
+          "d": "China"
+        },
+        "answer": "c"
+      },
+      {
+        "id": 39,
+        "question": "Which river passes through the Grand Canyon?",
+        "options": {
+          "a": "Colorado River",
+          "b": "Mississippi River",
+          "c": "Amazon River",
+          "d": "Nile River"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 40,
+        "question": "What is the value of π (pi) approximately equal to?",
+        "options": {
+          "a": "3.14",
+          "b": "2.71",
+          "c": "1.61",
+          "d": "4.18"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 41,
+        "question": "What is the formula to calculate the area of a circle?",
+        "options": {
+          "a": "A = πr",
+          "b": "A = πr^2",
+          "c": "A = 2πr",
+          "d": "A = 0.5πr^2"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 42,
+        "question": "What is the term for a number that is divisible by 2?",
+        "options": {
+          "a": "Prime number",
+          "b": "Odd number",
+          "c": "Composite number",
+          "d": "Even number"
+        },
+        "answer": "d"
+      },
+      {
+        "id": 43,
+        "question": "What is the result of 8 to the power of 3?",
+        "options": {
+          "a": "64",
+          "b": "512",
+          "c": "24",
+          "d": "1024"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 44,
+        "question": "What is the square root of 144?",
+        "options": {
+          "a": "12",
+          "b": "11",
+          "c": "14",
+          "d": "10"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 45,
+        "question": "Which trigonometric function is equivalent to sin(x)/cos(x)?",
+        "options": {
+          "a": "Secant",
+          "b": "Tangent",
+          "c": "Cosecant",
+          "d": "Cotangent"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 46,
+        "question": "What is the value of 3 factorial (3!)?",
+        "options": {
+          "a": "6",
+          "b": "9",
+          "c": "3",
+          "d": "1"
+        },
+        "answer": "a"
+      },
+      {
+        "id": 47,
+        "question": "What is the sum of the interior angles of a triangle?",
+        "options": {
+          "a": "90 degrees",
+          "b": "180 degrees",
+          "c": "270 degrees",
+          "d": "360 degrees"
+        },
+        "answer": "b"
+      },
+      {
+        "id": 48,
+        "question": "What is the formula for the volume of a sphere?",
+        "options": {
+          "a": "V = 4/3 * πr",
+          "b": "V = πr^3",
+          "c": "V = 2/3 * πr^3",
+          "d": "V = 4/3 * πr^3"
+        },
+        "answer": "d"
+      },
+      {
+        "id": 49,
+        "question": "What is the Pythagorean theorem used to calculate?",
+        "options": {
+          "a": "Area of a circle",
+          "b": "Length of a curve",
+          "c": "Length of the hypotenuse in a right-angled triangle",
+          "d": "Area of a triangle"
+        },
+        "answer": "c"
+      }
+    ]
+  }
+  
